@@ -7,9 +7,9 @@ This repository presents deep learning models designed to predict the electronic
 The main three notebooks are presented on the main page:
 - create_input_data.ipynb: This file provides a step-by-step guide on generating input data from CIF files.
 
-- embed_mat2spec.ipynb: This notebook performs edos predictions on [Mat2Spec](https://github.com/gomes-lab/Mat2Spec) dataset (PDFs - are calculated using the ASE library).
+- embed_mat2spec.ipynb: This notebook performs edos predictions on the [Mat2Spec](https://github.com/gomes-lab/Mat2Spec) dataset (PDFs are calculated using the ASE library).
   
-- embed_mat2spec_simpleRDF.ipynb: This notebook performs edos predictions on [Mat2Spec](https://github.com/gomes-lab/Mat2Spec) dataset (PDFs - are calculated manually).
+- embed_mat2spec_simpleRDF.ipynb: This notebook performs edos predictions on the [Mat2Spec](https://github.com/gomes-lab/Mat2Spec) dataset (PDFs are calculated manually).
 
 - embed_phdos_colab.ipynb:  This notebook performs phDOS predictions on e3nn [dataset](https://github.com/zhantaochen/phonondos_e3nn).  
 
