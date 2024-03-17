@@ -1,1 +1,1 @@
-In this folder presented additional models trained on SrTiO3 and bulk datasets.
+In this folder, additional models trained on the SrTiO3 and bulk datasets are presented.
