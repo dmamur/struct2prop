@@ -16,7 +16,8 @@ The main three notebooks are presented on the main page:
 ## Perfomance
 eDOS examples, taken from the test set of the Mat2Spec (black), and predicted spectra (colored). The examples are five representative materials chosen from each quartile from low MAE (top) to high MAE (bottom) of our model predictions. The chemical sum formula and ID number of each material are shown above each subplot
 
-![embert_V0_mat2spec_FinalRandom_E_128_H_4_L_4_results_TestSetFull](https://github.com/dmamur/struct2prop/assets/129986239/001ccf1d-3081-46be-bad1-a1e5bde4f17e)
+![image](https://github.com/dmamur/struct2prop/assets/129986239/40df60a8-5981-4274-9010-5ba1b101b896)
+
 
 
 
