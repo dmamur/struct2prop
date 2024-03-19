@@ -34,3 +34,8 @@ Further information concerning the development of model and extended dataset fro
       author={Shermukhamedov, Shokirbek and Mamurjonova, Dilorom and Maihom, Thana and Probst, Michael},
       year={2023}}.
 ```
+
+## Model Validation
+We have performed further tests on our model using diverse datasets collected from various sources. Subsequent sections will describe each dataset in brief.
+### STO-eDOS dataset
+The eDOS spectra retrieved from https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.1c04252 were analyzed using our model. Training from the beginning can be initiated from [embed_sto.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_sto.ipynb)
