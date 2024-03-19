@@ -52,7 +52,7 @@ The MAE achieved by our model is **0.0094**.
 The figure below illustrates prediction results similar to the previous figure.
 ![embed_rdfV2_edosBulk_A1N_E_128_H_4_L_4_results_TestSetFull](https://github.com/dmamur/struct2prop/assets/129986239/91bf044d-932d-43a7-a465-e63a538ed047)
 ### E3NN-phDOS dataset
-Phonon densities of states predictions for the [E3NN](https://github.com/zhantaochen/phonondos_e3nn) dataset. The training can be performed with [embed_e3nn_phdos.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_e3nn_phdos.ipynb). 
+Phonon densities of states predictions for the [E3NN](https://github.com/zhantaochen/phonondos_e3nn) dataset. The training can be performed using [embed_e3nn_phdos.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_e3nn_phdos.ipynb). 
 
 The MAE achieved by our model is **0.083**. 
 
