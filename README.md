@@ -59,7 +59,7 @@ The MAE achieved by our model is **0.083**.
 The figure below illustrates prediction results similar to the previous figures.
 ![embed_phdos_rdf_T5_E_128_H_4_L_4_e3nn_results_testSetV2](https://github.com/dmamur/struct2prop/assets/129986239/9adbad45-c6ce-479d-a085-6c257b50f54e)
 ### phDOS-raw dataset
-Previously, the e3nn spectra were normalized to their maximum value and standardized from 0 to 1000 cm-1. However, this approach lacked information about absolute values and correct frequencies. To address this limitation, we trained a model using the absolute values and frequencies provided in the MP API. The training process is detailed in [embed_phdosRaw.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_phdosRaw.ipynb). 
+Previously, the e3nn spectra were normalized to their maximum value and standardized from 0 to 1000 cm-1. However, this approach lacked information about absolute values and correct frequency range. To address this limitation, we trained a model using the absolute values and frequencies provided in the MP API. The training process is detailed in [embed_phdosRaw.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_phdosRaw.ipynb). 
 
 The achieved MAE value is **0.824**. 
 
