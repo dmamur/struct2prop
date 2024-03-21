@@ -66,3 +66,11 @@ The achieved MAE value is **0.824**.
 The figure below illustrates prediction results similar to the previous figures.
 ![phdos_TestSetFull(1)](https://github.com/dmamur/struct2prop/assets/129986239/99d32dfa-d492-403b-956c-bb77df0bbc30)
 
+### JARVIS-phDOS dataset
+Normalized phDOS spectra are also accessible from the JARVIS dataset ([Choudhary, K. Electronic and Phonon Density of States](https://doi.org/10.6084/m9.figshare.14745327.v3)). We have incorporated this dataset into our model training process. The details of the training procedure are outlined i [embed_jarvisPDOS.ipynb](https://github.com/dmamur/struct2prop/blob/main/add/embed_jarvisPDOS.ipynb). 
+
+The achieved MAE value is **0.0035**. 
+
+The figure below illustrates prediction results similar to the previous figures.
+![jarvisPDOS_TestSetFull (1)](https://github.com/dmamur/struct2prop/assets/129986239/9acdf77c-6d9a-41c6-8567-01bdc7a9bcd0)
+
